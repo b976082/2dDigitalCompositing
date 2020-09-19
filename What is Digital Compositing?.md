@@ -2,9 +2,85 @@
   ## B976082 박순범
   ### What is Digital Compositing?
 
-  **1. Digital Compositing이 의미하는 것**
+
+  **1. Digital Compositing의 뜻**
 
 *Digital(디지털) + Compositing(합성)*
-디지털 합성(digital compositioning)은 다수의 이미지를 디지털로 조립하여 최종 이미지를 만드는 과정으로, 일반적으로 인쇄, 동영상 또는 화면 디스플레이를 위해 사용된다.
+  디지털 합성(digital compositioning)은 영상 이미지에 다양한 효과를 적용하거나 2개이상의 이미지를 합하여 편집하는 과정을 말한다.
 
-[![What is Compositing?](https://youtu.be/ZD9IzY5jVs8/0.jpg)](https://youtu.be/ZD9IzY5jVs8)
+[![What is Compositing?](https://img.youtube.com/vi/ZD9IzY5jVs8/0.jpg)](https://www.youtube.com/watch?v=ZD9IzY5jVs8&feature=emb_title)
+Youtube 영상
+
+
+  **2. Digital Compositing의 역사**
+
+  흔히 합성을 디지털 사진이 보편화 되고 난 후 발전한 기술로 알고 있지만, 실제로는 사진 역사 초창기부터 등장했다. 초창기 합성은 잉크와 붓으로 필름이나 인화지 위헤 필요한 대상을 그려 넣었다. 필름을 오려 풀로 붙이는 작업도 합께 이뤄졌다. 
+
+![First Digital Compositing](http://www.photoman.co.kr/photo/history/19cArt-Rejlander.jpg)
+최초의 합성 사진인 오스카 레일랜더의 (인생의 갈림길,  1857)
+
+  32개의 다른 유리 사진 원판으로부터 하나의 커다란 인쇄물로 제작하고, 프레임 안 사이즈에 맞추기 위해 거울에 반사시켜서 촬영했다. 이로 인해 당시 문제되던 주제, "속임수" 사진 기술이 예술인가에 대한 이슈가 제기되기도 했다.
+
+  그렇게 1800년 후반에 합성에 대한 요구가 하드웨어 발전으로 이어지고, 광학 프린터기 제작으로 인해 광학 합성이 등장하게 되자 광학 합성과 관련된 많은 기법과 기술은 디지털 세계에 적용됐다.
+
+
+![First Digital Compositing](https://t1.daumcdn.net/cfile/blog/122606114BDF8ADD35)
+(킹콩, 1933)
+
+  1900년대에 등장한 디지털 합성 영화의 대표작 중 하나인 킹콩은 16인치 크기의 미니어처로 처음 촬영한 뒤 각 프레임 간에 포즈나 위치를 바꾸며 한 번에 한 프레임씩 촬영 연결하면서 대상에 움직임을 주었다. (스톱모션 형식) 그 후에 풀 사이즈 무대 위에 위치한 커다란 프로젝션 스크린 위에 투영한 뒤 나무의 여배우를 촬영하고, 전경과 배경이 따로 촬영된 뒤 광학 프린팅 단계에서 합성하였다.
+
+
+  **3. Digital Compositing Program**
+
+  디지털 영상 합성에 사용되는 프로그램은 다양하다. Adobe Premiere, Adobe After Effect, Vegas, Avid, Maya 등 프로그램의 특성에 따라 가능한 영상 합성 범위는 조금씩 차이를 보이지만 모두 영상 합성이 가능한 프로그램이다.
+
+
+  **4. Digital Compositing의 종류**
+  
+  기술력이 발전함에 따라 디지털 합성의 방식들도 다양해지고 있으며, 2000년대 이후엔 우리가 보는 모든 매체에 디지털 합성 방식이 한가지 이상은 보일정도로 종류가 다양해졌다. 
+   
+   - Blue & Green Screen
+   
+  크로마 키(영어: Chroma Key)는 두개의 영상을 합성하는 기술이다. A와 B 이렇게 두개의 영상이 있으면, B 영상으로부터 '좁은 범위의 색'을 제거하거나 투명하게 만들어서 뒤의 A 영상이 비치게 할 수 있다. 이 기술은 또한 컬러 키, 색 분리 오버레이, 그린스크린, 블루스크린이라고도 일컬을 수 있다. 보통 기상 예보 방송에서 쓰이는데, 예보자가 큰 지도 앞에서 서 있는 것처럼 보여 주지만 실제로는 파란색 배경이나 초록색 배경의 스튜디오 안에 있는 것이다.
+ 
+  그러나 크로마 키를 반드시 파란색과 초록색만 사용할 수 있는 것은 아니다. 영상 믹서 기기나 영상 편집 소프트웨어를 사용하여 직접 색을 고를 수도 있고, “스로틀 기능”을 이용하여 겹치는 부분의 모서리를 부드럽게 표현할 수 있다. 대한민국에서는 보통 파란색을 사용하는데, 이때 파란색이 아닌 다른 옷을 입은 채 동작을 취할 수 있다. 그러면 파란색이 투명해지면서 배경과 합성이 될 것이다. 그러나 서양에서는 초록색을 자주 사용한다. 그 이유는 서양 사람들의 눈이 파란색인 경우도 있기 때문에 블루스크린을 사용하면 파란색의 눈이 투명하게 바뀌는 결과를 낳을 수 있기 때문이다.
+   
+![Blue & Green Screen](https://mblogthumb-phinf.pstatic.net/20160113_221/mediakids_145268247966567wjV_JPEG/%C5%A9%B7%CE%B8%B6%C5%B0_%BB%F9%C7%C31.jpg?type=w3)
+   
+   
+   - Matte Painting
+   
+  영화에서 주로 쓰이는 특수효과 기법. 실제 사진이나 영상에 합성되는 그림을 말한다. 주로 주로 실제 장소나 세트를 마련하기 어려운 큰 풍경 등에 쓰이거나 게임이나 영화의 한 장면을 대략적으로 구상해내어 제작에 도움을 줄 수 있는 밑받침 작업을 위해 사용하기도 한다.
+   
+[![Matte Painting](https://img.youtube.com/vi/lQTdOcYK9Ds/0.jpg)](https://www.youtube.com/watch?v=lQTdOcYK9Ds&app=desktop)
+Youtube 영상
+   
+   
+   - Particle Effects
+   
+  다양한 불, 물, 연기, 바람 등 자연물을 CG로 재현하는 기법이다. 그 밖의 유체나 군중 시뮬레이션 등의 CG 기술과 프로그래밍을 이용한 현실 세계에서는 만들 수 없거나 힘든 상황을 재현하는 기술이 발전했다.
+   
+![Particle Effect](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Particle_sys_fire.jpg/220px-Particle_sys_fire.jpg)
+   
+   
+   - Motion Capture
+   
+  모션 캡처(motion capture)란 몸에 센서를 부착시키거나, 적외선을 이용하는 등의 방법으로 인체의 움직임을 디지털 형태로 기록하는 작업을 말한다.
+  
+  영화의 등장 인물을 나타내는 데에도 쓰이는데, 《반지의 제왕》에 등장한 골룸이 한 예다. 영화에서 골룸의 얼굴 표정과 동작 등을 실제 배우의 연기를 여러 대의 적외선 카메라로 찍어 컴퓨터로 기록한 다음 그 움직임을 컴퓨터 그래픽으로 만든 골룸 캐릭터로 표현하도록 합성하는 것이다. 영화 《리얼 스틸》에 나타나는 로봇의 제어 방식 역시 모션 캡처 방식을 이용한 것이라고 볼 수 있다. 또한 병원 재활의학과에서 환자의 보행을 교정하거나, 체육선수들의 자세 교정에도 이용하고 있다. 
+ 
+![Motion Capture](https://t1.daumcdn.net/liveboard/movie/5166eacb0c874f30861e02b0ed56e96c.JPG)
+  
+  
+   - Digital Actor
+  
+  디지털 액터란 실제 배우나 살아 움직이는 존재처럼 화면에 구현된 컴퓨터 그래픽(CG) 캐릭터를 말한다. 디지털 액터 기술이 보편화되면서 이제 인간배우보다 디지털 기술로 재창조된 얼굴 없는 배우가 주연을 대신하는 일도 늘어나고 있다.
+ 
+ ![Digital Actor](https://static01.nyt.com/images/2016/12/27/arts/01ROGUE1/01ROGUE1-facebookJumbo-v5.jpg)
+ 
+ 
+ 참고:
+ -https://frientor.tistory.com/119
+ -https://brunch.co.kr/@orangev6/13
+ -https://www.slideshare.net/carrotcg/the-art-and-science-of-digital-compositing-chapter-12
+ -https://m.blog.naver.com/PostView.nhn?blogId=dsudicon&logNo=220842332805&proxyReferer=https:%2F%2Fwww.google.com%2F
