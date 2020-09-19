@@ -6,6 +6,7 @@
   **1. Digital Compositing의 뜻**
 
 *Digital(디지털) + Compositing(합성)*
+
   디지털 합성(digital compositioning)은 영상 이미지에 다양한 효과를 적용하거나 2개이상의 이미지를 합하여 편집하는 과정을 말한다.
 
 [![What is Compositing?](https://img.youtube.com/vi/ZD9IzY5jVs8/0.jpg)](https://www.youtube.com/watch?v=ZD9IzY5jVs8&feature=emb_title)
@@ -28,6 +29,9 @@ Youtube 영상
 (킹콩, 1933)
 
   1900년대에 등장한 디지털 합성 영화의 대표작 중 하나인 킹콩은 16인치 크기의 미니어처로 처음 촬영한 뒤 각 프레임 간에 포즈나 위치를 바꾸며 한 번에 한 프레임씩 촬영 연결하면서 대상에 움직임을 주었다. (스톱모션 형식) 그 후에 풀 사이즈 무대 위에 위치한 커다란 프로젝션 스크린 위에 투영한 뒤 나무의 여배우를 촬영하고, 전경과 배경이 따로 촬영된 뒤 광학 프린팅 단계에서 합성하였다.
+
+![First Digital Compositing](https://farm4.staticflickr.com/3090/3154750796_573783378f.jpg)
+디지털 합성을 이용해 영화의 핵심 주제를 표현한 (페르소나. 1966), 디지털 합성은 그저 시각적 표현수단 뿐만 아닌, 예술적 표현을 위해서도 사용이 되기도 했다.
 
 
   **3. Digital Compositing Program**
@@ -58,7 +62,7 @@ Youtube 영상
    
    - Particle Effects
    
-  다양한 불, 물, 연기, 바람 등 자연물을 CG로 재현하는 기법이다. 그 밖의 유체나 군중 시뮬레이션 등의 CG 기술과 프로그래밍을 이용한 현실 세계에서는 만들 수 없거나 힘든 상황을 재현하는 기술이 발전했다.
+  다양한 불, 물, 연기, 바람 등 자연물을 CG로 재현하는 기법이다. 그 밖의 유체나 군중 시뮬레이션 등의 CG 기술과 프로그래밍을 이용한 현실 세계에서는 만들 수 없거나 힘든 상황을 재현하기 위해 기술이 발전했다.
    
 ![Particle Effect](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Particle_sys_fire.jpg/220px-Particle_sys_fire.jpg)
    
@@ -75,12 +79,18 @@ Youtube 영상
    - Digital Actor
   
   디지털 액터란 실제 배우나 살아 움직이는 존재처럼 화면에 구현된 컴퓨터 그래픽(CG) 캐릭터를 말한다. 디지털 액터 기술이 보편화되면서 이제 인간배우보다 디지털 기술로 재창조된 얼굴 없는 배우가 주연을 대신하는 일도 늘어나고 있다.
+  
+  디지털 액터 기술은 CG 기술의 '총아'로 영상 특수 효과(VFX)나 3D 애니메이션, 게임, 가상 현실 등 CG 제작 인프라 활용에서 나아가 배우의 역할까지 대신하기 시작했다. 그래서 디지털 액터는 영상 촬영 기술 및 컴퓨터 그래픽 처리 기술을 기반으로 표정, 동장 캡처 및 디지털 구현, 영상 표현 등 제작 전반에 걸친 기술이 되었다.
  
  ![Digital Actor](https://static01.nyt.com/images/2016/12/27/arts/01ROGUE1/01ROGUE1-facebookJumbo-v5.jpg)
  
  
  참고:
+ 
  -https://frientor.tistory.com/119
+ 
  -https://brunch.co.kr/@orangev6/13
+ 
  -https://www.slideshare.net/carrotcg/the-art-and-science-of-digital-compositing-chapter-12
+ 
  -https://m.blog.naver.com/PostView.nhn?blogId=dsudicon&logNo=220842332805&proxyReferer=https:%2F%2Fwww.google.com%2F
