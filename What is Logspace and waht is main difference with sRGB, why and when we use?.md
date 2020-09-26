@@ -43,3 +43,18 @@
  유튜브 영상
  
  그렇기에 채색이 덜 된 상태에서 우리가 원하는 색상으로 다시 색을 입힐 수 있고, 그렇게 되면 연출하고자 하는 영상의 느낌을 시청자들에게 전달할 수 있기 때문이다. 실내 촬영의 경우, 굳이 로그 촬영을 할 필요가 없다, 빛의 대비가 강한 낮 촬영의 경우 로그 촬영은 거의 필수다.
+ 
+ 
+참고:
+
+https://ko.wikipedia.org/wiki/SRGB
+
+https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
+
+https://m.blog.naver.com/passion8945/221516552960
+
+https://tiberius-viris.artstation.com/blog/3ZBO/color-space-management-srgb-linear-and-log
+
+https://aw2sum.tistory.com/entry/QA-Time-2-%EB%A1%9C%EA%B7%B8LOG-%EC%B4%AC%EC%98%81%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94-2
+
+https://www.youtube.com/watch?v=_tbXsgefzag
