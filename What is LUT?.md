@@ -65,4 +65,50 @@
 
 
 
+## **3. LUT적용 방법**
 
+### + **Gamma 값 조절**
+
+(감마 보정 공식)
+
+![week4-11](https://user-images.githubusercontent.com/70869138/94336890-6dbdad00-0021-11eb-919f-c9093d97d606.png)
+
+ Gamma 보정 공식에서 확인할 수 있듯이, gamma 값이 1보다 크면 LUT 곡선은 Exponential 하게, 1보다 작으면 곡선은 그 반대로 그래프가 바뀐다.
+
+(Gamma 값에 따른 LUT 곡선)
+
+![week4-9](https://user-images.githubusercontent.com/70869138/94336815-ea03c080-0020-11eb-8df7-af09742cd12b.png)
+
+LUT가 적용되지 않은 이미지(좌)와 적용된 이미지(우) 
+
+LUT가 적용된 이미지에서 어두은 영역을 더 선명하게 확인할 수 있다.
+
+![week4-10](https://user-images.githubusercontent.com/70869138/94336888-68606280-0021-11eb-9286-1161f9af8df8.png)
+
+ 위 사진의 좌측 이미지는 LUT가 적용되지 않은 이미지이고, 우측 이미지는 LUTgamma 0.5가 적용된 이미지다. amma 0.5가 적용됐을 때 어두은 영역을 더 선명하게 표현할 수 있다. 그 이유는 어두은 영역에서 표현할 수 있는 범위가 더 확대되었기 때문이다.
+
+(Gamma 값이 0.5일 때 이미지 레벨입/ 출력 그래프)
+
+![week4-12](https://user-images.githubusercontent.com/70869138/94336984-f8061100-0021-11eb-9da5-4acd4dddd073.png)
+
+
+### + **사용자가 정한 LUT 커브를 카메라에 적용**
+
+ 엑셀 등에서 작성한 LUT 커브를 등롭함으로써 사용자가 원하는 output 특성을 가질 수 있다. 중앙의 사진과 같이 중간영역의 불필요한 데이터를 압축함으로써 어두운 영역과 밝은 영역을 더 자세히 볼 수 있다.
+
+(LUT를 이용한 히스토그램 활성화)
+
+![week4-13](https://user-images.githubusercontent.com/70869138/94337104-e2ddb200-0022-11eb-8abe-300657b1e0b4.png)
+
+ LUT를 적용한 이미지는 이미지 레벨 히스토그램이 평활화(0-255 레벨 범위에서 골고루 분산)된다. 히스토그램을 평활하 하면 이미지의 명암대비가 개선된다.
+ 
+ 
+ 참고:
+ 
+ https://ko.wikipedia.org/wiki/%EC%88%9C%EB%9E%8C%ED%91%9C
+ 
+ http://keruluke.com/archived_web/kft/vol4/lookuptable/
+ 
+ https://visionblog.vieworks.com/knowledge/camera-n-sensor/what-is-lut/
+ 
+ https://blog.naver.com/laizenti/220051962705
