@@ -11,7 +11,6 @@
  
  sRGB (standard Red Green Blue)는 1996년에 미국의 컴퓨터 기업인 마이크로소프트와 HP가 협력하여 만든 모니터 및 프린터 표준 RGB 색 공간이다. IEC에 의해 IEC 61966-2-1:1999로 최종 표준화되었다. 색 공간 정보가 없는 이미지(특히 이미지 화소들이 색 채널 당 8비트 정수로 저장되는 경우)에 대한 기본 색 공간으로 종종 사용된다.
 
-![1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cie_Chart_with_sRGB_gamut_by_spigget.png/220px-Cie_Chart_with_sRGB_gamut_by_spigget.png)
 
 ![2](https://cdna.artstation.com/p/media_assets/images/images/000/394/820/large/image02.jpg?1552184260)
  
