@@ -13,6 +13,7 @@
 
 ![1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cie_Chart_with_sRGB_gamut_by_spigget.png/220px-Cie_Chart_with_sRGB_gamut_by_spigget.png)
 
+![4](https://cdnb.artstation.com/p/media_assets/images/images/000/185/191/medium/comparison2.jpg?1516129275)
  
  추가로, 기술 발전으로 sRGB는 UHD TV에서는 더 이상 쓰이지 않을 예정이며, 현재는 HDR 등을 고려해 DCI-P3을 목표로 제조되고 있다. 장기적으로는 BT.2020을 목표로 한다. sRGB는 사람이 눈으로 인식 가능한 색상의 33.3%밖에 재현할 수 없다. sRGB가 사용하는 EOTF에 의하여 구현 가능한 최대 밝기도 100 nits가 한계라는 점도 단점으로 꼽힌다.
  
@@ -20,13 +21,9 @@
 
  예를 들어, 우리의 뇌는 32가 16보다 두 배 더 밝고, 48(32+16과 같음)이 32보다 두 배 더 밝을 것으로 예상한다.
 이 문제를 해결하기 위해 대부분의 최신 모니터는 감마 곡선을 사용하여 색상을 비선형으로 만드는 표준 인 sRGB라는 변환을 적용한다. 곡선은 하단이 더 얕아서 더 어두운 값을 표시하고 상단이 더 가파르기 때문에 더 적은 라이트 값을 가질 수 있다.
-
- ![2](https://cdnb.artstation.com/p/media_assets/images/images/000/394/819/medium/image00.jpg?1552184196)
- ![3](https://cdna.artstation.com/p/media_assets/images/images/000/394/820/medium/image02.jpg?1552184260)
  
- ![4](https://cdnb.artstation.com/p/media_assets/images/images/000/185/191/medium/comparison2.jpg?1516129275)
   
- 윗 그래프와 왼쪽사진이 선형 색공간(Linear color space), 아래쪽 그래프와 오른쪽 사진이 sRGB
+왼쪽사진이 선형 색공간(Linear color space), 오른쪽 사진이 sRGB
  
   ### + **Log**
  
