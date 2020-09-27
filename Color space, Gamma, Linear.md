@@ -78,3 +78,15 @@
 ![2](http://rapapa.net/wp/wp-content/uploads/2018/06/i2eZj9U.png)
 
  두가지 그래프를 합해서 나온 출력값이 Linear 그래프와 얼추 같아 보여도, 실제 데이터는 아래에 뭉쳐 있어 어두은 영역이 더 넓게 표현된다.
+ 
+ 참고:
+ 
+ https://dg087.tistory.com/35
+ 
+ http://rapapa.net/?p=3406
+ 
+ https://pid.samsungdisplay.com/ko/learning-center/white-papers/wide-color-gamut-displays
+ 
+ https://whiteknight3672.tistory.com/192
+ 
+ https://blog.naver.com/PostView.nhn?blogId=cdw0424&logNo=221827528747
