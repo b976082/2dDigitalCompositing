@@ -5,9 +5,8 @@
 
 ## Constrast?
 
- ### + **Value Contrast**
- 
- **명암 대비**
+ ### + **명암 대비**
+
  
  화가들이 데생을 할 때, 밝은 부분과 어두운 부분이 만나는 경계 영역에서 밝은 부분은 더 밝게, 어두운 부분은 더 어둡게 과장되게 칠하여 밝기 대비의 효과를 극대화 하는데, 그러면 입체감이 훨씬 더 잘 드러나고, 극적인 효과를 낼 수 있다.
  
@@ -25,7 +24,7 @@
  
  반대로 인물을 밝게 함으로 해당 인물에게 자연스럽게 시선이 집중되게 유도하며, 배경을 어둡게 처리함으로 미지의 공간을 탐방하는 모습으로 공포스런 분위기를 조성한다.
  
- **시선 처리**
+ ### + **시선 처리**
  
  ![week5-2](https://user-images.githubusercontent.com/70869138/94920261-7d1b7b00-04a5-11eb-9262-c7d504c2c064.png)
  
@@ -34,7 +33,7 @@
  마태오는 굳은 의지의 표정으로 단호하게 가리키는 예수의 자세와 극명하게 대조가 되고 예수 뒤에서 한 줄기 빛이 사선으로 어두운 실내로 들어오면서, 이러한 운명적인 선택이 더욱 극적으로 표현되고 있다.
  
  
- **컬러 대비**
+ ### + **컬러 대비**
  
  ![week5-3](https://user-images.githubusercontent.com/70869138/94923756-e43c2e00-04ab-11eb-93f0-235097c57f57.png) 천국과 지옥 中
  
@@ -51,9 +50,25 @@
 컬러 대비를 통해 영화에 중요한 변환점이 될 여자아이에 색을 입혀 자연스럽게 주목을 끌게 하고 그녀의 죽음에 더욱 큰 충격을 주게 한다.
  
  
+## Sharpness?
  
+ 선예도(Sharpness) 사진의 디테일이 얼마나 선명하지를 나타내며 질감을 강조하기 위한 가장 중요한 요소다. 선예도를 높이기 위해서 촬영뿐만 아니라 후보정 과정에서도 많은 노력이 필요한데도 불구하고 가장 기본적으로 선예도는 카메라와 렌즈, 확대 배율, 사진을 보는 거리 등에 의해 결정된다.
+ 
+ ![3](https://user-images.githubusercontent.com/70869138/94937535-a8848100-050a-11eb-81d6-97c002236447.jpg)
+코코 中
+ 
+ 주인공의 대화장면. 주인공을 제외하고 배경을 흐리게 해 말하는 주체에 집중하게 한다.
+ 
+ ![4](https://user-images.githubusercontent.com/70869138/94938083-5abc4880-050b-11eb-80fd-61a95697687b.jpg)
+ 
+ 다음 장면, 여전히 말하는 주체만 선명하게 해 해당 인물에게 집중시켜 대화씬을 더욱 몰입시킨다.
+
+
+
 참고:
 
 http://blog.naver.com/PostView.nhn?blogId=k-mjeong&logNo=221134660596&categoryNo=1&parentCategoryNo=0
 
 https://m.blog.naver.com/PostView.nhn?blogId=nland21&logNo=221317740942&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+https://m.blog.naver.com/PostView.nhn?blogId=j9fbm93&logNo=221517395981&proxyReferer=https:%2F%2Fwww.google.com%2F
