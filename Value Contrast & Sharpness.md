@@ -17,13 +17,41 @@
  
  철학자 바로 옆 창문으로 환한 빛이 들어오고 있는데, 빛이 들어오는 밝은 청문 옆에 어두운 벽이 뚜렷하게 비교되면서, 창문은 더욱 밝게, 벽은 더욱 어둡게 느껴진다. 명암의 대비가 극대화 되어 공간감이 더 깊이 있게 살아나고, 살짝 긴장감이 감돌게 한다.
  
- ![2](https://mblogthumb-phinf.pstatic.net/MjAxNzEwMzBfMjg4/MDAxNTA5MzQwOTUzNzM4.r5ESYMISETHDc2f8KrNxg6dkvLdX344fheKuLyDqYnsg.mv9Gf5Q-600fiEt7fC2lYXDKoaCIZKu_VzbVKRgqLxAg.JPEG.imurmvp/%EC%97%90%EC%9D%B4%EB%A6%AC%EC%96%B82.jpg?type=w800) 에이리언 2 (제임스 카메런/1986)
+ ![1](https://user-images.githubusercontent.com/70869138/94918957-88df5f80-04ee-11eb-8307-32cb718a4ae5.jpg) 사이코 中
  
  조명 바로 앞에 피사체가 놓여지면 보는 사람으로 하여금 위압감을 느끼게 한다.
  
+ ![2](https://user-images.githubusercontent.com/70869138/94918964-8bda5000-04ee-11eb-9a66-38764061b4b8.jpg) 사이코 中
+ 
+ 반대로 인물을 밝게 함으로 해당 인물에게 자연스럽게 시선이 집중되게 유도하며, 배경을 어둡게 처리함으로 미지의 공간을 탐방하는 모습으로 공포스런 분위기를 조성한다.
+ 
  **시선 처리**
  
+ ![week5-2](https://user-images.githubusercontent.com/70869138/94920261-7d1b7b00-04a5-11eb-9262-c7d504c2c064.png)
+ 
+ 이 작품은 예수가 마대오를 제자로 선언하는 장면을 묘사한 것이다. 오른쪽에 손가락을 들고 서 있는 남자가 예수로 왼쪽 탁자에 앉아 있는 남자 무리에서 한 명을 지목해 제자로 선택하고 있다. 하지만 남자 무리 중 어느 누구도 이를 예상하지 못한 듯 놀란 표정을 하고 있고, 정작 제자로 지명된 마태오는 전혀 상황 파악을 하지 못한 채, 탁자 위에 있는 동전을 세고 있다. 굳은 의지의 표정으로 단호하게 가리키는 예수의 자세와 극명하게 대조가 된다. 예수 뒤에서 한 줄기 빛이 사선으로 어두운 실내로 들어오면서, 이러한 운명적인 선택이 더욱 극적으로 표현되고 있다.
  
  
- **색 강조**
+ **컬러 대비**
  
+ ![week5-3](https://user-images.githubusercontent.com/70869138/94923756-e43c2e00-04ab-11eb-93f0-235097c57f57.png) 천국과 지옥 中
+ 
+ 형사들이 기지를 발휘해 유괴범에게 줄 몸값을 담은 가방 안에 불에 태웠을 경우 색깔있는 연기가 나도록 하는 약품을 집어 넣은 것. 여기서 형사들은 유괴범의 증거 인멸 장소를 알아내고 범인이 어던 인물인지 실마리를 찾게 된다.
+ 
+ 영화의 중요한 모티브를 제공하는 장면에서 흑백 필름에 피어오르는 연기만을 붉은색으로 처리했기 때문에 주목을 이끌어내고 극에 더 몰입하게 된다.
+ 
+ ![week5-5](https://user-images.githubusercontent.com/70869138/94924404-f9658c80-04ac-11eb-96cb-2d12d4a2389d.png)
+ 
+ ![week5-4](https://user-images.githubusercontent.com/70869138/94924207-a2f84e00-04ac-11eb-984a-04dae2e6bab9.png) 쉰들러 리스트 中
+
+영화 속 주인공 오스카 쉰들러가 무심결에 주먹한 여자아이가 죽어 수레에 처참하게 실려온 것을 보고 큰 충격을 받고 유대인을 구해야 겠다고 일생일대의 중요한 결정을 하게 되는 장면.
+
+컬러 대비를 통해 영화에 중요한 변환점이 될 여자아이에 색을 입혀 자연스럽게 주목을 끌게 하고 그녀의 죽음에 더욱 큰 충격을 주게 한다.
+ 
+ 
+ 
+참고:
+
+http://blog.naver.com/PostView.nhn?blogId=k-mjeong&logNo=221134660596&categoryNo=1&parentCategoryNo=0
+
+https://m.blog.naver.com/PostView.nhn?blogId=nland21&logNo=221317740942&proxyReferer=https:%2F%2Fwww.google.com%2F
