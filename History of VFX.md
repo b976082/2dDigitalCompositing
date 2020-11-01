@@ -149,8 +149,41 @@
   <신과 함께>를 제작한 CG 스튜디오 기업인 <덱스터 스튜디오>
 
 
+## VFX의 현황과 전망
 
+ 현재에 들어서 VFX와 현실의 경계는 갈수록 허물어져 가고 있다. 과거의 필름을 AI를 활용해 HD로 변환하기도 하며, 가상의 인물이나 과거에 죽은 인물을 디지털 액터를 통해 영상에 다시 보이게 할 수도 있다. 심지어 영상에 등장하는 배우의 얼굴을 다른 배우나 유명인의 얼굴로 변환하는 딥 페이크(Deep Fake) 기술까지 개발되었다.
+ 
+![19](https://file.newswire.co.kr/data/datafile2/thumb_480/2005/10/2005101111289985450.06339600.jpg) 디지털 액터
 
+ [![20](https://img.youtube.com/vi/3WEpJS1W7vg/0.jpg)](https://www.youtube.com/watch?v=3WEpJS1W7vg) (유튜브 영상)
+
+ 그렇기에 VFX가 개발 될 수록, 제작자가 진정으로 원하는 비주열을 그대로, 그것도 아주 쉽게 현실화 시킬 수 있는 상황이 온 것이다. 
+
+ 2019년에 10년 뒤 영화 속 주인공 모두 CG로 제작된다는 전망을 보였으나, 고전 <라이온 킹>의 등장인물들을 오직 CG만으로 실사 영화화 시킨 사례를 보면 그리 멀지도 않을 것 같다.
+ 
+   [![21](https://img.youtube.com/vi/WkQ8AJWohIU/0.jpg)](https://www.youtube.com/watch?v=WkQ8AJWohIU)
+ 
+ 실제 카메라로 동물을 촬영한 것이 아닌, 오직 CG만으로 동물들을 구성한 영화인 <라이온 킹> (유튜브 영상)
+
+ VFX를 단순히 영화 산업에만 국한되지 않고, 다른 영역까지 뻗쳐나가고 있다. 대표적으론 게임의 개발과 함께 많은 발전을 이루고 있다. 게임 그래픽은 영화의 VFX에 비해 저조하다는 말도 더이상 아니게 될 것이다.
+
+   [![22](https://img.youtube.com/vi/PBktSo0bXas/0.jpg)](https://www.youtube.com/watch?v=PBktSo0bXas)
+   
+   차세대 콘솔 기기인 PlayStation 5의 Unreal Engine 5 시연 영상 (유튜브 영상)
+   
+   VFX의 발전은 그래픽의 향상에만 치중되는 것은 아니다. VFX를 AI에 접목시킨 머신 러닝, 딥 러닝 기술도 주목되고 있다.
+   
+   이미 머신 및 딥 러닝에 대한 연구는 주로 카메라 추적, 시뮬레이션, 렌더링, 모션 캡처, 캐릭터 애니메이션, 이미지 처리, 로토 스코핑 및 합성과 같은 영역에서 컴퓨터 그래픽에 자동화 및 더 많은 물리적 기반 결과를 도입하는 데 도움이되었다.
+   
+ 이에 핀스크린의 연구자 겸 CEO 겸 공동 창업자인 하오 리(Hao Li)는 신경망은 얼마 전부터 존재해 왔지만, GPU와 방대한 양의 데이터로 '깊이' 신경망(다중 레이어를 갖는)이 효율적으로 훈련될 수 있는 것은 비교적 최근의 일이었다고 하며, 대부분은 아니더라도 딥러닝 기반 기법이 객체 인식, 세분화 및 기타 추론 작업과 같은 근본적인 패턴 인식 관련 문제에 대한 고전적인 컴퓨터 비전 방법 중 많은 것을 능가하는 것으로 나타났다고 말했다.
+   
+   ![23](https://i2.wp.com/www.vfxvoice.com/wp-content/uploads/2019/03/PIX-1-AI_in_VFX_feature.jpg?w=1024&ssl=1)
+   
+   이와 비슷한 관계로, AI를 활용해 기존 오래된 그래픽과 프레임을 현재에 맞게끔 향상시키는 기술도 개발되고 있다고 한다.
+
+   [![24](https://img.youtube.com/vi/8qoTjV8IXcs/0.jpg)](https://www.youtube.com/watch?v=8qoTjV8IXcs)
+   
+   이전 세대 콘솔게임들을 더욱 향상시켜서 준다는 차세대 콘솔 Xbox Series X (유튜브 영상)
 
  -참고-
   
@@ -169,3 +202,11 @@
   http://videoplus.co.kr/board_view.php?idx=105497&boardIndex=26&data=idx%3D105497&pc=
   
   http://blog.naver.com/unckc/80125624752
+  
+  http://www.genmedia.co.kr/news/articleView.html?idxno=12650
+  
+  http://www.kocca.kr/cop/bbs/view/B0000144/1822194.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=200900&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&pageIndex=9#
+  
+  https://www.gamer-plus.co.uk/ps4/first-look-at-ps5-graphics/
+  
+  https://www.vfxvoice.com/the-new-artificial-intelligence-frontier-of-vfx/
